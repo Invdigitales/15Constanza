@@ -188,7 +188,7 @@ margin-left: 5%;
        color: #3f3f3f;
        margin-top: 30%; 
        margin: 5%;
-       margin-top: -515%;
+       margin-top: -475%;
        font-weight: 500;
 }
 .copas{
@@ -207,6 +207,7 @@ margin-left: 5%;
 .calendario{
   width: 70%;
   margin-left: 16%;
+  margin-top: 10%;
 }
 .parrafo2{
   text-align: center;
@@ -329,7 +330,7 @@ font-family: 'Alex Brush', cursive;
 padding: 35px;
 background-image: url(./imagenes/papelitos.gif);
 background-size: 20%;
-margin-top: 50%;
+margin-top:50%;
 }
 
 
@@ -380,7 +381,7 @@ margin-top: 50%;
          font-size: 20px;
          color: #ffffff;
          font-weight: 600;
-         margin-top: 70%;
+         margin-top: 55%;
 }
 .cande{
   width: 88%;
@@ -390,10 +391,17 @@ margin-top: 50%;
 
 .fondo{
   width: 100%;
+  margin-top: 8%;
+}
+.fondo1{
+  width: 100%;
+  margin-top: -5%;
 }
 
-
-
+.fondo2{
+  width: 100%;
+  margin-top: -5%;
+}
 
 
 
